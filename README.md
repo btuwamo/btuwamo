@@ -1,16 +1,17 @@
-## Hi there 👋
+<img width="900" height="400" alt="Blue and White Modern Coming Soon Email Header" src="https://github.com/user-attachments/assets/9da49b7f-99c1-495b-aee6-cbd926d196cd" />
 
-<!--
-**btuwamo/btuwamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+I'm a passionate **Statistician and Data Analyst** with experience in **SAS, R, and Python**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: **SQL**
+- 🔭 Working on: **The Impact of Social Media Use on Mental and Behaviorial Health**
+- 🌍 Languages: **SAS, R, Python, Excel, SQL**
+- ⚡ Fun fact: **I am currently pursuing my MS in Applied Statistics**
+
+
+## Get in Touch 📬
+- **[LinkedIn](https://www.linkedin.com/in/brittanytuwamo/)**
+
+
+
