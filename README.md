@@ -4,7 +4,7 @@
 
 I'm a passionate **Statistician and Data Analyst** with experience in **SAS, R, and Python**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **SQL**
+- 🌱 Currently learning: **SQL** and **Linesr Regression Modeling***
 - 🔭 Working on: **The Impact of Social Media Use on Mental and Behaviorial Health**
 - 🌍 Languages: **SAS, R, Python, Excel, SQL**
 - ⚡ Fun fact: **I am currently pursuing my MS in Applied Statistics**
